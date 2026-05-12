@@ -1,0 +1,1 @@
+# GA-aglorithm-for-considering-kinematics-and-dynamic
